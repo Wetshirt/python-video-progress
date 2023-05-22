@@ -1,0 +1,13 @@
+[
+    {
+        "text": "hello",
+        "start": 0,
+        "end": 2
+    },
+
+    {
+        "text": "world",
+        "start": 2,
+        "end": 3
+    }
+]
